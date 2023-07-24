@@ -12,7 +12,7 @@ This intuitive web application prompts the user to specify their password requir
 • Customizable password criteria: Users have the flexibility to choose the desired combination of uppercase letters, lowercase letters, numbers, 
   and symbols, tailoring the password to their liking.
 
-• Strong and secure passwords: The generator employs a proven randomization algorithm to produce high-quality passwords, reducing the risk of     
+• Strong and secure passwords: The generator employs a proven randomization algorithm to produce high-quality passwords, reducing the risk of   
   password vulnerability.
 
 • Copy to clipboard: Conveniently copy the generated password to the clipboard with a single click for easy use.
